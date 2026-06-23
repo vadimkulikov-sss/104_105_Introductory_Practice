@@ -135,7 +135,6 @@ body {
     margin: 0;
 }
 
-/* ===== САЙДБАР ===== */
 .sidebar {
     background-color: white;
     padding: 30px;
@@ -313,7 +312,6 @@ body {
     outline-offset: 3px;
 }
 
-/* ===== ФУТЕР ===== */
 .main-footer {
     background-color: #2d6a2d;
     color: white;
